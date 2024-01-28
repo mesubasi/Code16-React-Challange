@@ -13,5 +13,5 @@
   <li>Adding products to the basket, storing products in local storage and clearing products from localstorage</li>
   <li>Detailed product description, price and special structure for adding to cart on a single page</li>
   <li>Detailed viewing of product images with multiple image scrolling</li>
-  <li>Matching colours</li>
+  <li>Compatible Colour Scale</li>
 </ul>
