@@ -1,5 +1,5 @@
 <h1>Code16 React Challange</h1>
-<p>The project made in 1 hour for react challange within the scope of Code16 programme. 
+<p>Project developed in 1 hour for react challange within the scope of Code16 programme. 
   <br> This project also offered a fast development as it was made with tailwind css.</p>
 <h2>Used Technologies</h2>
 <ul>
