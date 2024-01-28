@@ -8,7 +8,6 @@
   <li>Tailwind CSS</li>
   <li>React Slick</li>
 </ul>
-<br>
 <h2>Features</h2>
 <ul>
   <li>Adding products to the basket, storing products in local storage and clearing products from localstorage</li>
