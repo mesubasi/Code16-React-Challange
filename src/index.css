@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-dots {
+  bottom: 0px;
+}
+.slick-dots:hover {
+  color: black !important;
+}
+
+.slick-dots li.slick-active button:before {
+  color: black !important;
+}
